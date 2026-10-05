@@ -1,0 +1,44 @@
+variable,question_number,description,dtype,n_missing,values
+id,,,int64,0,
+group,2,Which of the following best describes you?,category,0,Healthcare professional | AI developer | Patient
+gender,3,What is your gender?,category,0,Male | Female | Non-binary | Prefer not to say
+age_group,4,What is your age group?,category,0,18-24 | 25-34 | 35-44 | 45-54 | 55-64 | 65 and above
+experience,5,"If you are a healthcare professional or AI developer, what is your level of experience?",category,50,Less than 1 year | 1-3 years | 4-6 years | 7-10 years | More than 10 years
+experience_code,5,Number code for experience in form order (1 = first option),float64,50,
+specialisation,6,"If you are a healthcare professional or AI developer, what is your area of specialisation?",string,76,
+familiarity,7,How familiar are you with the use of artificial intelligence in healthcare?,category,0,Not familiar at all | Somewhat familiar | Moderately familiar | Familiar | Very familiar
+familiarity_code,7,Number code for familiarity in form order (1 = first option),int8,0,
+bias_concern,8,"On a scale of 1 to 5, how concerned are you about AI systems in healthcare perpetuating biases (e.g., racial, gender, or socio-economic biases) in clinical decision-making [categories in meaning order, decision Q13]",category,0,Not concerned | Neutral | Somewhat concerned | Concerned | Extremely concerned
+privacy_protection,9,To what extent do you agree that AI systems in healthcare adequately protect patient data and privacy?,category,0,Strongly disagree | Disagree | Neutral | Agree | Strongly agree
+explanation_importance,10,"How important is it for healthcare AI systems to provide clear understandable explanations for their decisions to healthcare providers and patients? [categories in meaning order, decision Q13]",category,0,Not important | Neutral | Somewhat important | Important | Extremely important
+inform_patients,11,Do you believe patients should always be informed when AI is used in their diagnosis or treatment decisions?,category,0,Yes | No | Not sure
+trust,13,How much trust do you place in AI to make accurate and fair medical decisions compared to human healthcare professionals?,category,0,No trust | Little trust | Complete trust
+autonomy_undermined,14,Do you think AI in healthcare could undermine the autonomy of patients and healthcare providers by overly relying on machine-generated decisions?,category,0,Strongly disagree | Disagree | Neutral | Agree | Strongly agree
+guidelines_confidence,15,"How confident are you that current ethical guidelines are sufficient to address the challenges posed by AI in healthcare? [categories in meaning order, decision Q13]",category,0,Not confident | Neutral | Somewhat confident | Confident | Extremely confident
+no_human_life_death,16,Would you feel comfortable with AI systems making life-and-death decisions in emergency situations without human intervention?,category,0,Yes | No | Not sure
+disparities_concern,17,"How concerned are you that AI technologies in healthcare may increase disparities in access to care, particularly for minority populations? [categories in meaning order, decision Q13]",category,0,Not concerned | Neutral | Somewhat concerned | Concerned | Extremely concerned
+continent,18,"Continent of residence, as chosen by the participant (decision Q15).",category,0,Africa | Asia | Europe | North America | South America | Oceania (Australia and the Pacific)
+acc_ai_developers,,Q11 option chosen (1 = yes),int64,0,
+acc_healthcare_professional,,Q11 option chosen (1 = yes),int64,0,
+acc_hospital_clinic,,Q11 option chosen (1 = yes),int64,0,
+acc_n_selected,,Q11 number of options chosen,int64,0,
+age_group_code,4,Number code for age_group in form order (1 = first option),int8,0,
+privacy_protection_code,9,Number code for privacy_protection in form order (1 = first option),int8,0,
+trust_code,13,Number code for trust in form order (1 = first option),int8,0,
+autonomy_undermined_code,14,Number code for autonomy_undermined in form order (1 = first option),int8,0,
+bias_concern_code_form,8,Number code for bias_concern in form order (1-5). Sensitivity analysis only (decision Q13).,int8,0,
+bias_concern_code,8,"Number code for bias_concern in meaning order (1 = Not, 2 = Neutral, 3 = Somewhat, 4, 5 = Extremely). Main analysis (researcher decision, 4 October 2026).",int8,0,
+bias_concern_any,8,1 if bias_concern is Somewhat or higher (meaning order). Description and sensitivity analysis.,int64,0,
+bias_concern_strong,8,1 if bias_concern is one of the top two options. Sensitivity analysis (decision Q13).,int64,0,
+explanation_importance_code_form,10,Number code for explanation_importance in form order (1-5). Sensitivity analysis only (decision Q13).,int8,0,
+explanation_importance_code,10,"Number code for explanation_importance in meaning order (1 = Not, 2 = Neutral, 3 = Somewhat, 4, 5 = Extremely). Main analysis (researcher decision, 4 October 2026).",int8,0,
+explanation_importance_any,10,1 if explanation_importance is Somewhat or higher (meaning order). Description and sensitivity analysis.,int64,0,
+explanation_importance_strong,10,1 if explanation_importance is one of the top two options. Sensitivity analysis (decision Q13).,int64,0,
+guidelines_confidence_code_form,15,Number code for guidelines_confidence in form order (1-5). Sensitivity analysis only (decision Q13).,int8,0,
+guidelines_confidence_code,15,"Number code for guidelines_confidence in meaning order (1 = Not, 2 = Neutral, 3 = Somewhat, 4, 5 = Extremely). Main analysis (researcher decision, 4 October 2026).",int8,0,
+guidelines_confidence_any,15,1 if guidelines_confidence is Somewhat or higher (meaning order). Description and sensitivity analysis.,int64,0,
+guidelines_confidence_strong,15,1 if guidelines_confidence is one of the top two options. Sensitivity analysis (decision Q13).,int64,0,
+disparities_concern_code_form,17,Number code for disparities_concern in form order (1-5). Sensitivity analysis only (decision Q13).,int8,0,
+disparities_concern_code,17,"Number code for disparities_concern in meaning order (1 = Not, 2 = Neutral, 3 = Somewhat, 4, 5 = Extremely). Main analysis (researcher decision, 4 October 2026).",int8,0,
+disparities_concern_any,17,1 if disparities_concern is Somewhat or higher (meaning order). Description and sensitivity analysis.,int64,0,
+disparities_concern_strong,17,1 if disparities_concern is one of the top two options. Sensitivity analysis (decision Q13).,int64,0,

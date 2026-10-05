@@ -1,0 +1,17 @@
+variable,group,n,median,q1,q3
+privacy_protection_code,Patient,48,3.0,3.0,4.0
+privacy_protection_code,Healthcare professional,58,3.0,3.0,4.0
+privacy_protection_code,AI developer,147,3.0,3.0,4.0
+privacy_protection_code,Total,253,3.0,3.0,4.0
+autonomy_undermined_code,Patient,48,3.0,3.0,4.0
+autonomy_undermined_code,Healthcare professional,58,3.0,3.0,4.0
+autonomy_undermined_code,AI developer,147,3.0,3.0,4.0
+autonomy_undermined_code,Total,253,3.0,3.0,4.0
+trust_code,Patient,48,2.0,2.0,2.0
+trust_code,Healthcare professional,58,2.0,2.0,2.0
+trust_code,AI developer,147,2.0,2.0,2.0
+trust_code,Total,253,2.0,2.0,2.0
+familiarity_code,Patient,48,2.0,2.0,3.0
+familiarity_code,Healthcare professional,58,3.0,2.0,4.0
+familiarity_code,AI developer,147,3.0,2.0,4.0
+familiarity_code,Total,253,3.0,2.0,4.0

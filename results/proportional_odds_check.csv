@@ -1,0 +1,8 @@
+outcome_no,outcome,cut_points_checked,predictors_failing,assumption,action
+1,Q7 bias concern,4,Not Asia (vs Asia),clearly fails,replaced by logistic model: any concern vs rest
+2,Q8 privacy is protected,4,"Familiarity (per step, 1-5)",clearly fails,replaced by logistic model: agree or strongly agree vs rest
+3,Q9 explanations important,3,Age 25-34 (vs 18-24),clearly fails,replaced by logistic model: any importance vs rest
+8,Q12 trust,2,none,no clear failure,ordinal model kept
+9,Q13 autonomy could be undermined,4,none,no clear failure,ordinal model kept
+10,Q14 guidelines are enough,3,Age 35 and over (vs 18-24),clearly fails,replaced by logistic model: any confidence vs rest
+12,Q16 disparities concern,4,none,no clear failure,ordinal model kept

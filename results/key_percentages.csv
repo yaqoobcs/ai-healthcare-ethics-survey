@@ -1,0 +1,77 @@
+measure,type,group,n_yes,n,pct,ci_low,ci_high
+Q7 bias: any concern (Somewhat or more),main,Patient,26,48,54.2,40.3,67.4
+Q7 bias: any concern (Somewhat or more),main,Healthcare professional,29,58,50.0,37.5,62.5
+Q7 bias: any concern (Somewhat or more),main,AI developer,79,147,53.7,45.7,61.6
+Q7 bias: any concern (Somewhat or more),main,Total,134,253,53.0,46.8,59.0
+Q7 bias: strong concern (top two),sensitivity,Patient,14,48,29.2,18.2,43.2
+Q7 bias: strong concern (top two),sensitivity,Healthcare professional,17,58,29.3,19.2,42.0
+Q7 bias: strong concern (top two),sensitivity,AI developer,44,147,29.9,23.1,37.8
+Q7 bias: strong concern (top two),sensitivity,Total,75,253,29.6,24.4,35.5
+Q8 privacy is protected: agree or strongly agree,main,Patient,18,48,37.5,25.2,51.6
+Q8 privacy is protected: agree or strongly agree,main,Healthcare professional,25,58,43.1,31.2,55.9
+Q8 privacy is protected: agree or strongly agree,main,AI developer,58,147,39.5,31.9,47.5
+Q8 privacy is protected: agree or strongly agree,main,Total,101,253,39.9,34.1,46.1
+Q8 privacy is protected: disagree or strongly disagree,main,Patient,11,48,22.9,13.3,36.5
+Q8 privacy is protected: disagree or strongly disagree,main,Healthcare professional,9,58,15.5,8.4,26.9
+Q8 privacy is protected: disagree or strongly disagree,main,AI developer,31,147,21.1,15.3,28.4
+Q8 privacy is protected: disagree or strongly disagree,main,Total,51,253,20.2,15.7,25.5
+Q9 explanations: any importance (Somewhat or more),main,Patient,38,48,79.2,65.7,88.3
+Q9 explanations: any importance (Somewhat or more),main,Healthcare professional,44,58,75.9,63.5,85.0
+Q9 explanations: any importance (Somewhat or more),main,AI developer,113,147,76.9,69.4,83.0
+Q9 explanations: any importance (Somewhat or more),main,Total,195,253,77.1,71.5,81.8
+Q9 explanations: strong importance (top two),sensitivity,Patient,31,48,64.6,50.4,76.6
+Q9 explanations: strong importance (top two),sensitivity,Healthcare professional,35,58,60.3,47.5,71.9
+Q9 explanations: strong importance (top two),sensitivity,AI developer,100,147,68.0,60.1,75.0
+Q9 explanations: strong importance (top two),sensitivity,Total,166,253,65.6,59.6,71.2
+Q10 patients should always be informed: Yes,main,Patient,36,48,75.0,61.2,85.1
+Q10 patients should always be informed: Yes,main,Healthcare professional,38,58,65.5,52.7,76.4
+Q10 patients should always be informed: Yes,main,AI developer,115,147,78.2,70.9,84.1
+Q10 patients should always be informed: Yes,main,Total,189,253,74.7,69.0,79.7
+Q11 accountable: AI developers,main,Patient,28,48,58.3,44.3,71.2
+Q11 accountable: AI developers,main,Healthcare professional,29,58,50.0,37.5,62.5
+Q11 accountable: AI developers,main,AI developer,104,147,70.7,62.9,77.5
+Q11 accountable: AI developers,main,Total,161,253,63.6,57.5,69.3
+Q11 accountable: healthcare professional,main,Patient,32,48,66.7,52.5,78.3
+Q11 accountable: healthcare professional,main,Healthcare professional,37,58,63.8,50.9,74.9
+Q11 accountable: healthcare professional,main,AI developer,103,147,70.1,62.2,76.9
+Q11 accountable: healthcare professional,main,Total,172,253,68.0,62.0,73.4
+Q11 accountable: hospital or clinic,main,Patient,32,48,66.7,52.5,78.3
+Q11 accountable: hospital or clinic,main,Healthcare professional,28,58,48.3,35.9,60.8
+Q11 accountable: hospital or clinic,main,AI developer,78,147,53.1,45.0,60.9
+Q11 accountable: hospital or clinic,main,Total,138,253,54.5,48.4,60.6
+Q12 trust: no trust,main,Patient,5,48,10.4,4.5,22.2
+Q12 trust: no trust,main,Healthcare professional,7,58,12.1,6.0,22.9
+Q12 trust: no trust,main,AI developer,19,147,12.9,8.4,19.3
+Q12 trust: no trust,main,Total,31,253,12.3,8.8,16.9
+Q12 trust: complete trust,main,Patient,5,48,10.4,4.5,22.2
+Q12 trust: complete trust,main,Healthcare professional,6,58,10.3,4.8,20.8
+Q12 trust: complete trust,main,AI developer,17,147,11.6,7.3,17.7
+Q12 trust: complete trust,main,Total,28,253,11.1,7.8,15.5
+Q13 autonomy could be undermined: agree or strongly agree,main,Patient,17,48,35.4,23.4,49.6
+Q13 autonomy could be undermined: agree or strongly agree,main,Healthcare professional,23,58,39.7,28.1,52.5
+Q13 autonomy could be undermined: agree or strongly agree,main,AI developer,51,147,34.7,27.5,42.7
+Q13 autonomy could be undermined: agree or strongly agree,main,Total,91,253,36.0,30.3,42.1
+Q14 guidelines are enough: any confidence (Somewhat or more),main,Patient,17,48,35.4,23.4,49.6
+Q14 guidelines are enough: any confidence (Somewhat or more),main,Healthcare professional,28,58,48.3,35.9,60.8
+Q14 guidelines are enough: any confidence (Somewhat or more),main,AI developer,64,147,43.5,35.8,51.6
+Q14 guidelines are enough: any confidence (Somewhat or more),main,Total,109,253,43.1,37.1,49.2
+Q14 guidelines are enough: strong confidence (top two),sensitivity,Patient,6,48,12.5,5.9,24.7
+Q14 guidelines are enough: strong confidence (top two),sensitivity,Healthcare professional,9,58,15.5,8.4,26.9
+Q14 guidelines are enough: strong confidence (top two),sensitivity,AI developer,22,147,15.0,10.1,21.6
+Q14 guidelines are enough: strong confidence (top two),sensitivity,Total,37,253,14.6,10.8,19.5
+Q15 comfortable with no human: No,main,Patient,32,48,66.7,52.5,78.3
+Q15 comfortable with no human: No,main,Healthcare professional,36,58,62.1,49.2,73.4
+Q15 comfortable with no human: No,main,AI developer,92,147,62.6,54.5,70.0
+Q15 comfortable with no human: No,main,Total,160,253,63.2,57.1,68.9
+Q15 comfortable with no human: Yes,main,Patient,6,48,12.5,5.9,24.7
+Q15 comfortable with no human: Yes,main,Healthcare professional,11,58,19.0,10.9,30.9
+Q15 comfortable with no human: Yes,main,AI developer,27,147,18.4,12.9,25.4
+Q15 comfortable with no human: Yes,main,Total,44,253,17.4,13.2,22.5
+Q16 disparities: any concern (Somewhat or more),main,Patient,29,48,60.4,46.3,73.0
+Q16 disparities: any concern (Somewhat or more),main,Healthcare professional,31,58,53.4,40.8,65.7
+Q16 disparities: any concern (Somewhat or more),main,AI developer,83,147,56.5,48.4,64.2
+Q16 disparities: any concern (Somewhat or more),main,Total,143,253,56.5,50.4,62.5
+Q16 disparities: strong concern (top two),sensitivity,Patient,19,48,39.6,27.0,53.7
+Q16 disparities: strong concern (top two),sensitivity,Healthcare professional,19,58,32.8,22.1,45.6
+Q16 disparities: strong concern (top two),sensitivity,AI developer,52,147,35.4,28.1,43.4
+Q16 disparities: strong concern (top two),sensitivity,Total,90,253,35.6,29.9,41.6

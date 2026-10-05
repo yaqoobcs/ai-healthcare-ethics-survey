@@ -1,0 +1,21 @@
+version,outcome_no,outcome,p,p_holm_in_family_of_12,difference_after_holm
+Main (1-5 scale),1,Q7 bias concern,0.84305060430038,1.0,False
+Main (1-5 scale),3,Q9 explanations important,0.051859504381441004,0.5704545481958511,False
+Main (1-5 scale),10,Q14 guidelines are enough,0.3505431127768465,1.0,False
+Main (1-5 scale),12,Q16 disparities concern,0.7832037244474438,1.0,False
+Main (1-5 scale),all 12,number with a difference after Holm,,,0
+Top two answers,1,Q7 bias concern,0.9929327973736624,1.0,False
+Top two answers,3,Q9 explanations important,0.5724276425103041,1.0,False
+Top two answers,10,Q14 guidelines are enough,0.8939244332405866,1.0,False
+Top two answers,12,Q16 disparities concern,0.763449295453744,1.0,False
+Top two answers,all 12,number with a difference after Holm,,,0
+Form order (1-5),1,Q7 bias concern,0.7568995139201624,1.0,False
+Form order (1-5),3,Q9 explanations important,0.023124017088399573,0.2543641879723953,False
+Form order (1-5),10,Q14 guidelines are enough,0.3844153520447481,1.0,False
+Form order (1-5),12,Q16 disparities concern,0.8711831356511321,1.0,False
+Form order (1-5),all 12,number with a difference after Holm,,,0
+Somewhat or higher,1,Q7 bias concern,0.874556460462306,1.0,False
+Somewhat or higher,3,Q9 explanations important,0.9182300451365575,1.0,False
+Somewhat or higher,10,Q14 guidelines are enough,0.4064386543679597,1.0,False
+Somewhat or higher,12,Q16 disparities concern,0.7712568230412773,1.0,False
+Somewhat or higher,all 12,number with a difference after Holm,,,0

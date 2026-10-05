@@ -1,0 +1,45 @@
+variable,answer,Patient_n,Patient_pct,Healthcare professional_n,Healthcare professional_pct,AI developer_n,AI developer_pct,Total_n,Total_pct
+bias_concern,Not concerned,8,16.7,8,13.8,14,9.5,30,11.9
+bias_concern,Neutral,14,29.2,21,36.2,54,36.7,89,35.2
+bias_concern,Somewhat concerned,12,25.0,12,20.7,35,23.8,59,23.3
+bias_concern,Concerned,9,18.8,14,24.1,34,23.1,57,22.5
+bias_concern,Extremely concerned,5,10.4,3,5.2,10,6.8,18,7.1
+privacy_protection,Strongly disagree,3,6.2,1,1.7,9,6.1,13,5.1
+privacy_protection,Disagree,8,16.7,8,13.8,22,15.0,38,15.0
+privacy_protection,Neutral,19,39.6,24,41.4,58,39.5,101,39.9
+privacy_protection,Agree,15,31.2,21,36.2,46,31.3,82,32.4
+privacy_protection,Strongly agree,3,6.2,4,6.9,12,8.2,19,7.5
+explanation_importance,Not important,2,4.2,1,1.7,5,3.4,8,3.2
+explanation_importance,Neutral,8,16.7,13,22.4,29,19.7,50,19.8
+explanation_importance,Somewhat important,7,14.6,9,15.5,13,8.8,29,11.5
+explanation_importance,Important,15,31.2,21,36.2,26,17.7,62,24.5
+explanation_importance,Extremely important,16,33.3,14,24.1,74,50.3,104,41.1
+inform_patients,Yes,36,75.0,38,65.5,115,78.2,189,74.7
+inform_patients,No,5,10.4,10,17.2,16,10.9,31,12.3
+inform_patients,Not sure,7,14.6,10,17.2,16,10.9,33,13.0
+trust,No trust,5,10.4,7,12.1,19,12.9,31,12.3
+trust,Little trust,38,79.2,45,77.6,111,75.5,194,76.7
+trust,Complete trust,5,10.4,6,10.3,17,11.6,28,11.1
+autonomy_undermined,Strongly disagree,3,6.2,3,5.2,6,4.1,12,4.7
+autonomy_undermined,Disagree,3,6.2,7,12.1,17,11.6,27,10.7
+autonomy_undermined,Neutral,25,52.1,25,43.1,73,49.7,123,48.6
+autonomy_undermined,Agree,17,35.4,21,36.2,43,29.3,81,32.0
+autonomy_undermined,Strongly agree,0,0.0,2,3.4,8,5.4,10,4.0
+guidelines_confidence,Not confident,11,22.9,11,19.0,18,12.2,40,15.8
+guidelines_confidence,Neutral,20,41.7,19,32.8,65,44.2,104,41.1
+guidelines_confidence,Somewhat confident,11,22.9,19,32.8,42,28.6,72,28.5
+guidelines_confidence,Confident,5,10.4,6,10.3,19,12.9,30,11.9
+guidelines_confidence,Extremely confident,1,2.1,3,5.2,3,2.0,7,2.8
+no_human_life_death,Yes,6,12.5,11,19.0,27,18.4,44,17.4
+no_human_life_death,No,32,66.7,36,62.1,92,62.6,160,63.2
+no_human_life_death,Not sure,10,20.8,11,19.0,28,19.0,49,19.4
+disparities_concern,Not concerned,2,4.2,4,6.9,11,7.5,17,6.7
+disparities_concern,Neutral,17,35.4,23,39.7,53,36.1,93,36.8
+disparities_concern,Somewhat concerned,10,20.8,12,20.7,31,21.1,53,20.9
+disparities_concern,Concerned,17,35.4,15,25.9,37,25.2,69,27.3
+disparities_concern,Extremely concerned,2,4.2,4,6.9,15,10.2,21,8.3
+familiarity,Not familiar at all,10,20.8,7,12.1,18,12.2,35,13.8
+familiarity,Somewhat familiar,16,33.3,21,36.2,49,33.3,86,34.0
+familiarity,Moderately familiar,12,25.0,10,17.2,27,18.4,49,19.4
+familiarity,Familiar,7,14.6,11,19.0,31,21.1,49,19.4
+familiarity,Very familiar,3,6.2,9,15.5,22,15.0,34,13.4

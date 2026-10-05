@@ -1,0 +1,9 @@
+,Familiarity with AI,Privacy is protected (agree),Trust in AI,Autonomy could be undermined (agree),Bias concern,Explanations important,Guidelines are enough (confidence),Disparities concern
+Familiarity with AI,1.0,0.103,0.176,0.078,0.162,0.3,0.08,0.083
+Privacy is protected (agree),0.103,1.0,0.404,0.14,0.044,0.148,0.237,0.029
+Trust in AI,0.176,0.404,1.0,0.177,-0.093,0.23,0.227,0.081
+Autonomy could be undermined (agree),0.078,0.14,0.177,1.0,0.256,0.188,0.101,0.168
+Bias concern,0.162,0.044,-0.093,0.256,1.0,0.192,0.091,0.278
+Explanations important,0.3,0.148,0.23,0.188,0.192,1.0,0.107,0.204
+Guidelines are enough (confidence),0.08,0.237,0.227,0.101,0.091,0.107,1.0,0.129
+Disparities concern,0.083,0.029,0.081,0.168,0.278,0.204,0.129,1.0
